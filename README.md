@@ -1,2 +1,2 @@
 # MatchThreeTheGame
- Chapter 3 EndlessRunner - Made Using Unity 2018.3.3
+ Chapter 6 MatchThree - Made Using Unity 2018.3.3
