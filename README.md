@@ -1,8 +1,9 @@
 # MatchThreeTheGame
- Chapter 6 MatchThree - Made Using Unity 2018.3.3
+ Chapter 6 MatchThree 
+ 448 Dandi Prayogatama
 
 ada 2 Folder
 
-1) StandAlone
-2) FileProject berbentuk .zip
+1) standalone
+2) fileproject berbentuk .zip
    - Salah penaman pada foldernya "matchtree" harusnya "matchthree"
